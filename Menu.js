@@ -8,4 +8,5 @@ const menuItems = [
   { food15 },
   { food16 },
   { food17 },
+  { food18 },
 ];
