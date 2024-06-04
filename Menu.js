@@ -23,4 +23,9 @@ const menuItems = [
   { food31 },
   { food6, food2 },
   { false5 },
+  { food32 },
+  { food33 },
+  { food34 },
+  { food35 },
+  { food36 },
 ];
